@@ -31,7 +31,7 @@ class TabbedReport extends Report{
 ```
 
 ## Arrow Functions
-```typscript
+```TypeScript
 //#Example 2
 
 var headers: string[] = ['Name'];
