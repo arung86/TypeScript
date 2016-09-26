@@ -1,7 +1,7 @@
 # TypeScript Examples
 
 ## Inheritance 
-
+```TypeScript
 class Report{
  data : string[];
  
@@ -28,9 +28,10 @@ class TabbedReport extends Report{
         super.run();
     }
 }
+```
 
 ## Arrow Functions
-
+```typscript
 //#Example 2
 
 var headers: string[] = ['Name'];
@@ -61,5 +62,5 @@ var nate = {
 };
 
 nate.printGuitars();
-
+```
 //###########################################################
